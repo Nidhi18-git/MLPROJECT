@@ -74,8 +74,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Pull requests are welcome! If you'd like to make improvements, feel free to submit a PR.
 
 📬 Contact
-📧 Email: your-email@example.com
-🔗 LinkedIn: Your LinkedIn Profile
+📧 Email: jhanidhi1901@gmail.com
 
 🎯 Happy Coding & Keep Learning! 🚀
 
